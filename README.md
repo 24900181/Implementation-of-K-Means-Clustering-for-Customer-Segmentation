@@ -61,13 +61,15 @@ plt.title("Customer Segments")
 ```
 
 ## Output:
-<img width="1430" height="211" alt="image" src="https://github.com/user-attachments/assets/370848c2-0eb2-446a-9bd0-117ddb2fc3ec" />
+<img width="1455" height="698" alt="Screenshot 2026-03-17 103414" src="https://github.com/user-attachments/assets/19388ae7-dc4c-4f22-a1c9-20c307a1d8c1" />
 
+<img width="1446" height="270" alt="Screenshot 2026-03-17 103554" src="https://github.com/user-attachments/assets/f3b097ea-7aef-485d-9972-154563a277b3" />
 
-<img width="1443" height="492" alt="image" src="https://github.com/user-attachments/assets/9c319523-eae2-4c1d-b3e2-fcfd903314be" />
+<img width="1453" height="498" alt="Screenshot 2026-03-17 103531" src="https://github.com/user-attachments/assets/18678283-d6e2-4bd9-b142-2fa8750ca81e" />
 
+<img width="1413" height="434" alt="Screenshot 2026-03-17 103656" src="https://github.com/user-attachments/assets/7b93b6d0-5137-43df-85f3-cb1cd43000b1" />
 
-
+<img width="1458" height="800" alt="Screenshot 2026-03-17 103721" src="https://github.com/user-attachments/assets/7ea64ea3-fcd8-4fb4-961b-a87b5cc9695a" />
 
 ## Result:
 Thus the program to implement the K Means Clustering for Customer Segmentation is written and verified using python programming.
